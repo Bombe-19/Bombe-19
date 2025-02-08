@@ -1,28 +1,16 @@
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
 <p align="center">
-I am a passionate <strong>Web Developer</strong> who loves turning ideas into elegant, functional applications. 🚀
+I am a passionate <strong>Web Developer</strong> who loves creating simple and elegant solutions for complex problems.
 </p>
 
 ---
 
 ## 🌟 About Me  
-- 🎓 **Education:** Bachelor in Computer Science  
-- 💼 **Currently Working On:** Dealer Hub, a CRUD-based web application  
-- 🌱 **Learning:** Next.js, MongoDB, and modern web design principles  
+- 🎓 **Education:** Bachelor in Computer Science with AIML
+- 💼 **Currently Working On:** Virtual-Lab  
+- 🌱 **Learning:** Typescript,Next.js 
 - 🏆 **Hobbies:** Coding, exploring UX/UI design, and sharing knowledge  
-
----
-
-## 🎨 Aesthetic Palette  
-
-Here's the color palette I use in my projects for a modern and minimalistic vibe:  
-
-- ![#A0D2EB](https://via.placeholder.com/15/A0D2EB/A0D2EB.png) `#A0D2EB`  
-- ![#E5EAF5](https://via.placeholder.com/15/E5EAF5/E5EAF5.png) `#E5EAF5`  
-- ![#DBBDF4](https://via.placeholder.com/15/DBBDF4/DBBDF4.png) `#DBBDF4`  
-- ![#845BB3](https://via.placeholder.com/15/845BB3/845BB3.png) `#845BB3`  
-- ![#494D5F](https://via.placeholder.com/15/494D5F/494D5F.png) `#494D5F`  
 
 ---
 
@@ -44,14 +32,6 @@ Here's the color palette I use in my projects for a modern and minimalistic vibe
 
 ---
 
-## 🔥 Featured Projects  
-
-### 🌐 [**Dealer Hub**](https://github.com/YourUsername/dealer-hub)  
-A CRUD-based dealership management application designed with **HTML & PHP**.  
-
-### 🛠 [**Binary Calculator**](https://github.com/YourUsername/binary-calculator)  
-A seamless tool for binary-to-decimal conversions, built using **Next.js**.  
-
 ---
 
 ## 📊 GitHub Stats  
@@ -68,4 +48,3 @@ A seamless tool for binary-to-decimal conversions, built using **Next.js**.
 - **Portfolio:** [YourWebsite](https://yourportfolio.com)  
 - **Email:** [youremail@gmail.com](mailto:youremail@gmail.com)  
 
-<h3 align="center">⭐ Thanks for stopping by! Feel free to connect. 😊</h3>
