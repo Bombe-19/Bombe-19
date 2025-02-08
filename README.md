@@ -1,6 +1,6 @@
-<h1 align="center" style="color:#A0D2EB; font-family: 'Arial', sans-serif;">👋 Welcome to My GitHub Profile!</h1>
+<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
-<p align="center" style="color:#E5EAF5; font-size: 18px;">
+<p align="center">
 I am a passionate <strong>Web Developer</strong> who loves turning ideas into elegant, functional applications. 🚀
 </p>
 
@@ -8,30 +8,48 @@ I am a passionate <strong>Web Developer</strong> who loves turning ideas into el
 
 ## 🌟 About Me  
 - 🎓 **Education:** Bachelor in Computer Science  
-- 💼 **Working On:** Dealer Hub, a CRUD-based web application  
+- 💼 **Currently Working On:** Dealer Hub, a CRUD-based web application  
 - 🌱 **Learning:** Next.js, MongoDB, and modern web design principles  
 - 🏆 **Hobbies:** Coding, exploring UX/UI design, and sharing knowledge  
 
 ---
 
+## 🎨 Aesthetic Palette  
+
+Here's the color palette I use in my projects for a modern and minimalistic vibe:  
+
+- ![#A0D2EB](https://via.placeholder.com/15/A0D2EB/A0D2EB.png) `#A0D2EB`  
+- ![#E5EAF5](https://via.placeholder.com/15/E5EAF5/E5EAF5.png) `#E5EAF5`  
+- ![#DBBDF4](https://via.placeholder.com/15/DBBDF4/DBBDF4.png) `#DBBDF4`  
+- ![#845BB3](https://via.placeholder.com/15/845BB3/845BB3.png) `#845BB3`  
+- ![#494D5F](https://via.placeholder.com/15/494D5F/494D5F.png) `#494D5F`  
+
+---
+
 ## 🛠 Skills & Tools  
-### **Languages**
-- <span style="color:#A0D2EB;">HTML</span>, <span style="color:#E5EAF5;">CSS</span>, <span style="color:#DBBDF4;">JavaScript</span>, and <span style="color:#845BB3;">PHP</span>  
 
-### **Frameworks**
-- React.js, Next.js  
+**Languages**  
+![HTML](https://img.shields.io/badge/HTML-A0D2EB?style=flat-square&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-E5EAF5?style=flat-square&logo=css3&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/JavaScript-DBBDF4?style=flat-square&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-845BB3?style=flat-square&logo=php&logoColor=white)  
 
-### **Database Management**
-- MySQL, MongoDB  
+**Frameworks**  
+![React](https://img.shields.io/badge/React-A0D2EB?style=flat-square&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-494D5F?style=flat-square&logo=next.js&logoColor=white)  
+
+**Database Management**  
+![MySQL](https://img.shields.io/badge/MySQL-494D5F?style=flat-square&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-DBBDF4?style=flat-square&logo=mongodb&logoColor=white)  
 
 ---
 
 ## 🔥 Featured Projects  
 
-### 🌐 **[Dealer Hub](https://github.com/YourUsername/dealer-hub)**  
+### 🌐 [**Dealer Hub**](https://github.com/YourUsername/dealer-hub)  
 A CRUD-based dealership management application designed with **HTML & PHP**.  
 
-### 🛠 **[Binary Calculator](https://github.com/YourUsername/binary-calculator)**  
+### 🛠 [**Binary Calculator**](https://github.com/YourUsername/binary-calculator)  
 A seamless tool for binary-to-decimal conversions, built using **Next.js**.  
 
 ---
@@ -44,22 +62,10 @@ A seamless tool for binary-to-decimal conversions, built using **Next.js**.
 
 ---
 
-## 🎨 Aesthetic Palette  
-
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <div style="background-color:#A0D2EB; width: 100px; height: 20px; margin: 5px; border-radius: 4px;"></div>
-  <div style="background-color:#E5EAF5; width: 100px; height: 20px; margin: 5px; border-radius: 4px;"></div>
-  <div style="background-color:#DBBDF4; width: 100px; height: 20px; margin: 5px; border-radius: 4px;"></div>
-  <div style="background-color:#845BB3; width: 100px; height: 20px; margin: 5px; border-radius: 4px;"></div>
-  <div style="background-color:#494D5F; width: 100px; height: 20px; margin: 5px; border-radius: 4px;"></div>
-</div>
-
----
-
 ## 🌐 Let's Connect  
 
 - **LinkedIn:** [YourProfile](https://linkedin.com/in/yourprofile)  
 - **Portfolio:** [YourWebsite](https://yourportfolio.com)  
-- **Email:** youremail@gmail.com  
+- **Email:** [youremail@gmail.com](mailto:youremail@gmail.com)  
 
-<h3 align="center" style="color:#494D5F;">⭐ Thanks for stopping by! Feel free to connect. 😊</h3>
+<h3 align="center">⭐ Thanks for stopping by! Feel free to connect. 😊</h3>
