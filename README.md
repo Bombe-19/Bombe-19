@@ -1,3 +1,4 @@
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1> <!-- Quick Tip: Replace [Your Name] with your actual name --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5TE2F5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" /> </p>
 <p align="center">
   <a href="https://github.com/yourusername?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yourusername?color=9DF9EF&style=for-the-badge&labelColor=5TE2F5&logo=star"/></a>
