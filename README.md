@@ -1,18 +1,1 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1> <!-- Quick Tip: Replace [Your Name] with your actual name --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5TE2F5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" /> </p>
-<p align="center">
-  <a href="https://github.com/yourusername?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yourusername?color=9DF9EF&style=for-the-badge&labelColor=5TE2F5&logo=star"/></a>
-  <a href="https://github.com/yourusername?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/yourusername?color=FFA6B9&labelColor=A28089&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-`<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>``<details>
-  <summary>More Stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</details>`
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+<div align="center"> <!-- Eye-catching header --> <img src="https://capsule-render.vercel.app/api?type=waving&color=5TE2F5&height=120&section=header&text=Hello,%20I'm%20[Your%20Name]&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=25" width="100%"/> <!-- Brief introduction --> <h3> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&color=9DF9EF&center=true&vCenter=true&width=500&height=45&duration=4000&lines=Full-Stack+Developer;AI+Enthusiast;Continuous+Learner" /> </h3> <p>Passionate about creating elegant solutions to complex problems.</p> <!-- Key skills with custom badges --> <p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> </p> <!-- GitHub stats --> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=00000000&title_color=5TE2F5&text_color=FFA6B9&icon_color=9DF9EF&hide_border=true" /> <!-- Featured projects --> <h3>Featured Projects</h3> <a href="https://github.com/yourusername/project1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&bg_color=00000000&title_color=5TE2F5&text_color=FFA6B9&icon_color=9DF9EF&hide_border=true" /> </a> <a href="https://github.com/yourusername/project2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&bg_color=00000000&title_color=5TE2F5&text_color=FFA6B9&icon_color=9DF9EF&hide_border=true" /> </a> <!-- Visual element for aesthetic appeal --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=00000000&color=5TE2F5&line=9DF9EF&point=FFA6B9&hide_border=true" width="100%"/> <!-- Footer --> <img src="https://capsule-render.vercel.app/api?type=waving&color=5TE2F5&height=100&section=footer" width="100%"/> </div>
