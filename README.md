@@ -38,3 +38,13 @@
   </table>
 </div>
 
+## 🚀 Tech Stack  
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
