@@ -2,7 +2,7 @@
 ```json
 {
     "Bombe-19's GitHub Stats, Rank: C": {
-        "Total Commits in 2025": "149 🔥",
+        "Total Commits in 2025": "175 🔥",
         "Total PRs": "0 🚀",
         "Total Issues": "1 📬",
         "Contributed to (last year)": "33 🤝"
